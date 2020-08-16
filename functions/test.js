@@ -1,3 +1,3 @@
 exports.handler = (event, context) => {
-  console.log(event["body"]);
+  console.log("test");
 }
